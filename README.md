@@ -4,7 +4,7 @@ Fox and Geese
 General description
 -------
 
-Implementation of one of the versions of the game "Fox and geese" where the user is the wolf and and the computer plays as the sheep.
+Haskell implementation of one of the versions of the game "Fox and geese" where the user is the wolf and and the computer plays as the sheep.
 
 The user can do (in addition to performing the movement):
 * finish the game,
